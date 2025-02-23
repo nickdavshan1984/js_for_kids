@@ -1,2 +1,2 @@
-# js_for_kids
- learning
+# javascript
+Этот репозиторий создан с целью изучения языка javascript
