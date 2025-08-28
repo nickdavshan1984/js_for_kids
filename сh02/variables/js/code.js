@@ -11,3 +11,8 @@ console.log(secondsInAnHour);
 var hoursInADay = 24;
 var secondsInADay = secondsInAnHour * hoursInADay;
 console.log(secondsInADay);
+var daysInAYear = 365;
+var secondsInAYear = secondsInADay * daysInAYear;
+console.log(secondsInAYear);
+var age = 41;
+console.log(age * secondsInAYear);
