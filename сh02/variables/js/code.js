@@ -8,3 +8,6 @@ var secondsInAMinute = 60;
 var minutesInAnHour = 60;
 var secondsInAnHour = secondsInAMinute * minutesInAnHour;
 console.log(secondsInAnHour);
+var hoursInADay = 24;
+var secondsInADay = secondsInAnHour * hoursInADay;
+console.log(secondsInADay);
